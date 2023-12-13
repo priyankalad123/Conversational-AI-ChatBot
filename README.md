@@ -1,4 +1,7 @@
 # Conversational-AI-ChatBot
+
+A simple chatbot implemented in Python using Hugging Face's DialoGPT-medium model. Interact with the chatbot, ask questions, and explore the capabilities of natural language processing.
+
 Intelligent ChatBot built with Microsoft's DialoGPT transformer to make conversations with human users!
 
 What is a chatbot?
